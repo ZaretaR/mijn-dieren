@@ -1,2 +1,4 @@
 borz
 shorty
+kleintje
+vis
